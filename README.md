@@ -6,4 +6,4 @@ Node.js
 ## Language used
 Solidity
 ## output after deployment
-<img src="screenshot/main.png" alt="Screenshot" title="Running the contract in Remix IDE">
+![My Image](screenshot/main.PNG)
